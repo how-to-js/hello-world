@@ -1,0 +1,19 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "Example module for an article series",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/how-to-js/hello-world.git"
+  },
+  "author": "Marcin Wosinek",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/how-to-js/hello-world/issues"
+  },
+  "homepage": "https://github.com/how-to-js/hello-world#readme"
+}
